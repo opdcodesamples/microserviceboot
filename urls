@@ -1,0 +1,7 @@
+both will require basic authentication
+
+==> for spring boot
+http://localhost:8080/teams
+
+===> for tomcat
+http://localhost:8083/microserviceBoot/teams
